@@ -1,5 +1,5 @@
 /**Laço repetição
-*Tipo: Para (Em inglês For)
+ *Tipo: Para (Em inglês For)
  *Quando usar: Repetições com número conhecido.
  */
 programa {
