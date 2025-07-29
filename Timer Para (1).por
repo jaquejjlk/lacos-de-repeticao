@@ -1,4 +1,5 @@
 /**Laço repetição
+ * Tipo: Para (Em inglês For)
  *Quando usar: Repetições com número conhecido.
  *Timer
  */
